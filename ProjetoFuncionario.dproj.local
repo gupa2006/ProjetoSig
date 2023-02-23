@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/02/17 22:26:57.000.480,C:\Users\gupa2\Desktop\Gustavo_Programar\Teste\ProjetoFuncionario.dproj=C:\Users\gupa2\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/02/17 22:27:50.000.239,=C:\Users\gupa2\Desktop\Gustavo_Programar\Teste\Gustavo.pas</Transaction>
+    <Transaction>2023/02/17 22:29:51.000.933,=C:\Users\gupa2\Desktop\Gustavo_Programar\Teste\Unit1.pas</Transaction>
+    <Transaction>2023/02/17 22:30:21.000.454,C:\Users\gupa2\Desktop\Gustavo_Programar\Teste\Unit1.pas=</Transaction>
+    <Transaction>2023/02/17 22:34:03.000.457,=C:\Users\gupa2\Desktop\Gustavo_Programar\Teste\Unit2.pas</Transaction>
+    <Transaction>2023/02/17 22:34:26.000.287,C:\Users\gupa2\Desktop\Gustavo_Programar\Teste\Unit2.pas=</Transaction>
+    <Transaction>2023/02/17 22:45:38.000.194,=C:\Users\gupa2\Desktop\Gustavo_Programar\Teste\Unit1.pas</Transaction>
+    <Transaction>2023/02/17 23:17:21.000.772,=C:\Users\gupa2\Desktop\Gustavo_Programar\Teste\Unit2.pas</Transaction>
+    <Transaction>2023/02/17 23:18:03.000.214,=C:\Users\gupa2\Desktop\Gustavo_Programar\Teste\Unit2.pas</Transaction>
+    <Transaction>2023/02/17 23:18:50.000.440,=C:\Users\gupa2\Desktop\Gustavo_Programar\Teste\Unit2.pas</Transaction>
+    <Transaction>2023/02/17 23:19:30.000.807,C:\Users\gupa2\Desktop\Gustavo_Programar\Teste\Unit2.pas=C:\Users\gupa2\Desktop\Gustavo_Programar\Teste\Controller.pas</Transaction>
+    <Transaction>2023/02/17 23:19:30.000.807,C:\Users\gupa2\Desktop\Gustavo_Programar\Teste\Unit2.dfm=C:\Users\gupa2\Desktop\Gustavo_Programar\Teste\Controller.dfm</Transaction>
+    <Transaction>2023/02/17 23:25:12.000.524,=C:\Users\gupa2\Desktop\Gustavo_Programar\Teste\Unit2.pas</Transaction>
+    <Transaction>2023/02/17 23:28:50.000.397,C:\Users\gupa2\Desktop\Gustavo_Programar\Teste\Unit2.pas=C:\Users\gupa2\Desktop\Gustavo_Programar\Teste\Dao.pas</Transaction>
+    <Transaction>2023/02/17 23:28:50.000.397,C:\Users\gupa2\Desktop\Gustavo_Programar\Teste\Unit2.dfm=C:\Users\gupa2\Desktop\Gustavo_Programar\Teste\Dao.dfm</Transaction>
+    <Transaction>2023/02/18 00:15:05.000.797,=C:\Users\gupa2\Desktop\Gustavo_Programar\Teste\Unit2.pas</Transaction>
+    <Transaction>2023/02/18 00:18:27.000.894,C:\Users\gupa2\Desktop\Gustavo_Programar\Teste\Unit2.dfm=C:\Users\gupa2\Desktop\Gustavo_Programar\Teste\LoginController.dfm</Transaction>
+    <Transaction>2023/02/18 00:18:27.000.894,C:\Users\gupa2\Desktop\Gustavo_Programar\Teste\Unit2.pas=C:\Users\gupa2\Desktop\Gustavo_Programar\Teste\LoginController.pas</Transaction>
+    <Transaction>2023/02/19 12:21:04.000.314,C:\Users\gupa2\Desktop\Gustavo_Programar\Teste\LoginController.pas=</Transaction>
+    <Transaction>2023/02/19 12:24:57.000.308,=C:\Users\gupa2\Desktop\Gustavo_Programar\Teste\LoginController.pas</Transaction>
+    <Transaction>2023/02/19 12:29:35.000.471,=C:\Users\gupa2\Desktop\Gustavo_Programar\Teste\Unit2.pas</Transaction>
+    <Transaction>2023/02/19 12:30:14.000.082,C:\Users\gupa2\Desktop\Gustavo_Programar\Teste\ControllerGeral.pas=C:\Users\gupa2\Desktop\Gustavo_Programar\Teste\Unit2.pas</Transaction>
+    <Transaction>2023/02/19 12:30:14.000.082,C:\Users\gupa2\Desktop\Gustavo_Programar\Teste\ControllerGeral.dfm=C:\Users\gupa2\Desktop\Gustavo_Programar\Teste\Unit2.dfm</Transaction>
+    <Transaction>2023/02/19 12:32:49.000.386,=C:\Users\gupa2\Desktop\Gustavo_Programar\Teste\Unit2.pas</Transaction>
+    <Transaction>2023/02/19 12:33:24.000.439,C:\Users\gupa2\Desktop\Gustavo_Programar\Teste\DaoGeral.pas=C:\Users\gupa2\Desktop\Gustavo_Programar\Teste\Unit2.pas</Transaction>
+    <Transaction>2023/02/19 12:33:24.000.439,C:\Users\gupa2\Desktop\Gustavo_Programar\Teste\DaoGeral.dfm=C:\Users\gupa2\Desktop\Gustavo_Programar\Teste\Unit2.dfm</Transaction>
+    <Transaction>2023/02/19 12:34:32.000.297,C:\Users\gupa2\Desktop\Gustavo_Programar\Teste\LoginController.pas=</Transaction>
+    <Transaction>2023/02/19 12:34:32.000.319,C:\Users\gupa2\Desktop\Gustavo_Programar\Teste\Controller.pas=</Transaction>
+    <Transaction>2023/02/19 12:34:32.000.315,C:\Users\gupa2\Desktop\Gustavo_Programar\Teste\Dao.pas=</Transaction>
+    <Transaction>2023/02/19 17:42:31.000.651,=C:\Users\gupa2\Desktop\Gustavo_Programar\Teste\Unit2.pas</Transaction>
+    <Transaction>2023/02/19 17:52:26.000.653,C:\Users\gupa2\Desktop\Gustavo_Programar\Teste\Unit2.pas=C:\Users\gupa2\Desktop\Gustavo_Programar\Teste\Principal.pas</Transaction>
+    <Transaction>2023/02/19 17:52:26.000.653,C:\Users\gupa2\Desktop\Gustavo_Programar\Teste\Unit2.dfm=C:\Users\gupa2\Desktop\Gustavo_Programar\Teste\Principal.dfm</Transaction>
+    <Transaction>2023/02/20 00:17:36.000.565,=C:\Users\gupa2\Desktop\Gustavo_Programar\Teste\Unit2.pas</Transaction>
+    <Transaction>2023/02/20 00:18:07.000.695,C:\Users\gupa2\Desktop\Gustavo_Programar\Teste\Unit2.dfm=C:\Users\gupa2\Desktop\Gustavo_Programar\Teste\ControllerPrincipal.dfm</Transaction>
+    <Transaction>2023/02/20 00:18:07.000.695,C:\Users\gupa2\Desktop\Gustavo_Programar\Teste\Unit2.pas=C:\Users\gupa2\Desktop\Gustavo_Programar\Teste\ControllerPrincipal.pas</Transaction>
+    <Transaction>2023/02/20 00:20:10.000.046,=C:\Users\gupa2\Desktop\Gustavo_Programar\Teste\Unit2.pas</Transaction>
+    <Transaction>2023/02/20 00:20:36.000.052,C:\Users\gupa2\Desktop\Gustavo_Programar\Teste\Unit2.dfm=C:\Users\gupa2\Desktop\Gustavo_Programar\Teste\DaoPrincipal.dfm</Transaction>
+    <Transaction>2023/02/20 00:20:36.000.052,C:\Users\gupa2\Desktop\Gustavo_Programar\Teste\Unit2.pas=C:\Users\gupa2\Desktop\Gustavo_Programar\Teste\DaoPrincipal.pas</Transaction>
+    <Transaction>2023/02/20 18:07:03.000.076,=C:\Users\gupa2\Desktop\Gustavo_Programar\Teste\Unit2.pas</Transaction>
+    <Transaction>2023/02/20 18:07:46.000.419,C:\Users\gupa2\Desktop\Gustavo_Programar\Teste\Unit2.pas=C:\Users\gupa2\Desktop\Gustavo_Programar\Teste\CadFuncionario.pas</Transaction>
+    <Transaction>2023/02/20 18:07:46.000.419,C:\Users\gupa2\Desktop\Gustavo_Programar\Teste\Unit2.dfm=C:\Users\gupa2\Desktop\Gustavo_Programar\Teste\CadFuncionario.dfm</Transaction>
+    <Transaction>2023/02/21 12:31:46.000.268,C:\Users\gupa2\Desktop\Gustavo_Programar\Teste\CadFuncionario.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
